@@ -1,0 +1,27 @@
+* {
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+/* input {
+    display: flex;
+    align-items: center;
+} */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#plus {
+    display: none;
+
+}
+#table {
+    display: flex;
+    /* flex-direction: column; */
+}
+#user {
+    display: flex;
+flex-direction: column;
+
+}
